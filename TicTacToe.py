@@ -1,10 +1,10 @@
-# Final Project - TicTacToe Human vs. Computer
+# Project - TicTacToe Human vs. Computer
 
 #Purpose: To recreate the childhood game of TicTacToe with an intelligent AI to play against
 
 # Author: Saad Sanaullah
 #
-# Date: November 14, 2021
+# Date: November 14, 2023
 
 board = [[ 0 for x in range(3)] for y in range(3)] # 3x3 nested list
 X_MARK = ' x ' # set to  ' x ' for player.
